@@ -60,6 +60,4 @@ plt.savefig("../png/"+options.name+".png",bbox_inches='tight',dpi=400)
 
 print("Hello Dog")
 # show the plot for interactive use
-
-
-p.show()
+pls.show()
