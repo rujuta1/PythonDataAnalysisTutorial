@@ -84,3 +84,5 @@ plt.savefig(options.name+".png",bbox_inches='tight',dpi=400)
 
 # show the plot for interactive use
 plt.show()
+
+print(
