@@ -58,5 +58,6 @@ plt.subplots_adjust(top=0.99, right=0.99, bottom=0.13, left=0.12)
 # save plot for later viewing
 plt.savefig("../png/"+options.name+".png",bbox_inches='tight',dpi=400)
 
+print("Hello Dog")
 # show the plot for interactive use
-plt.show()
+pls.show()
