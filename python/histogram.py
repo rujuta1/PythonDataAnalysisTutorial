@@ -62,4 +62,7 @@ print("Hello Dog")
 # show the plot for interactive use
 
 
+print("hahahaha")
+:wq
+p.show()
 p.show()
